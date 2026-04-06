@@ -28,7 +28,7 @@ export default function LandingPage() {
           <span className="font-bold tracking-tight text-lg">JS Debug Playground</span>
         </div>
         <nav className="flex items-center gap-4">
-          <Link href="https://github.com/arpitpatel/js-debug-playground" target="_blank" rel="noreferrer">
+          <Link href="https://github.com/arpit15006/js-debug-playground" target="_blank" rel="noreferrer">
             <Button variant="ghost" size="sm" className="gap-2 text-muted-foreground hover:text-foreground hidden md:flex">
               <GitBranch className="h-4 w-4" />
               GitHub
@@ -72,7 +72,7 @@ export default function LandingPage() {
                 <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
               </Button>
             </Link>
-            <Link href="https://github.com/arpitpatel/js-debug-playground" target="_blank" className="w-full sm:w-auto">
+            <Link href="https://github.com/arpit15006/js-debug-playground" target="_blank" className="w-full sm:w-auto">
               <Button size="lg" variant="outline" className="w-full sm:w-auto h-12 px-8 text-base border-border/80 hover:bg-accent rounded-full">
                 <GitBranch className="mr-2 h-4 w-4" />
                 View on GitHub
@@ -213,7 +213,7 @@ export default function LandingPage() {
             <Link href="/editor" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
               Editor
             </Link>
-            <Link href="https://github.com/arpitpatel/js-debug-playground" target="_blank" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+            <Link href="https://github.com/arpit15006/js-debug-playground" target="_blank" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
               GitHub
             </Link>
           </div>
